@@ -1735,7 +1735,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 2,
-        "image_config": "[   {     \"x1\": 10,     \"x2\": 65,     \"y1\": 2,     \"y2\": 46   },   {     \"x1\": 32,     \"x2\": 90,     \"y1\": 49,     \"y2\": 100   } ]",
+        "image_config": "[   {     \"x1\": 10,     \"x2\": 63,     \"y1\": 2,     \"y2\": 46   },   {     \"x1\": 32,     \"x2\": 90,     \"y1\": 49,     \"y2\": 100   } ]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/collage/bg/4_658e97c910197.png",
